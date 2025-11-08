@@ -1,0 +1,8 @@
+# Requirements for Diet Planner ML project
+# Minimal, pinned versions known to work with Python 3.8+
+numpy==1.23.5
+pandas==1.5.3
+scikit-learn==1.2.2
+joblib==1.2.0
+# Optional / helpful
+matplotlib==3.6.3
